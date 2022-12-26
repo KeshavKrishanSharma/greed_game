@@ -1,11 +1,11 @@
 import Table from './components/Table'
 import './App.css';
-import DatePicker from './components/DatePicker';
+import DateSetter from './components/DateSetter';
 
 function App() {
   return (
     <div className="App">
-      <DatePicker/>
+      <DateSetter/>
     <Table/>
     </div>
   );
