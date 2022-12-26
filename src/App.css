@@ -1,0 +1,14 @@
+
+.react-datepicker-wrapper{
+    width: 180px !important;
+    
+}
+.datePicker{
+    background-color: rgb(184, 238, 238);
+    border-radius: 10px;
+    
+}
+.table_border{
+    border-bottom: 0px white !important;
+ 
+}
